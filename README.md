@@ -1,2 +1,2 @@
 # BI-Mietwagenunternehmen: coming soon...
-Rentabilitätanalyse von Mietwagenunternehmer in Frankfurt. 
+Rentabilitätanalyse von Mietwagenunternehmer in Frankfurt. Analyse von 2 Unternehmen mit je 60-80K monatlichen Umsatz . 
