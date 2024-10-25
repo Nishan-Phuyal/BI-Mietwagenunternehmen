@@ -13,9 +13,14 @@ Unternehmer laden lediglich ihre csv-Dateien hoch, und die App erstellt sofort e
 ##### •	Betrugserkennung via Standortanalyse: 
 Eine der bedeutendsten Funktionen der App ist die visuelle Darstellung von Fahrtrouten auf einer Karte. Hiermit lassen sich potenzielle Betrugsfälle identifizieren. Ein häufiges Szenario in der Mietwagenbranche ist, dass Fahrer Langstreckenfahrten offline abschließen und so dem Unternehmer wichtige Einnahmen vorenthalten. Mithilfe der Kartenfunktion können solche Abweichungen sofort sichtbar gemacht werden. Dies hat bereits dazu geführt, dass Unternehmer betrügerische Fahrer identifizieren und entsprechende Maßnahmen ergreifen konnten.
 
-Veröffentlichung und Datenschutz: Ein Teil der App ist öffentlich zugänglich gemacht worden, allerdings werden hierbei ausschließlich Pseudo-Daten verwendet, die zur reinen Darstellung dienen. Die App ist so konzipiert, dass sie strengste Datenschutzanforderungen erfüllt und alle vertraulichen Daten der Unternehmer und Fahrer geschützt bleiben.
+#### • Veröffentlichung und Datenschutz:
+
+Ein Teil der App ist öffentlich zugänglich gemacht worden, allerdings werden hierbei ausschließlich Pseudo-Daten verwendet, die zur reinen Darstellung dienen. Die App ist so konzipiert, dass sie strengste Datenschutzanforderungen erfüllt und alle vertraulichen Daten der Unternehmer und Fahrer geschützt bleiben.
+
 Dieses Projekt war im Vergleich zu anderen technisch weniger komplex, entpuppte sich jedoch als eines der nützlichsten Tools für viele Taxi- und Mietwagenunternehmer. Es steigert nicht nur die betriebliche Effizienz, sondern trägt auch signifikant zur Erkennung von betrügerischem Verhalten bei. Die App unterstützt Unternehmer dabei, ihre Geschäftsprozesse zu optimieren und vor finanziellen Verlusten geschützt zu sein
 
+
+# Hinweis: Meine fundierten Kenntnisse in MySQL-Logik waren hilfreich beim Aufbau von Entity-Relationship-Diagrammen sowie bei der Zusammenführung mehrerer Tabellen
 
 
 
