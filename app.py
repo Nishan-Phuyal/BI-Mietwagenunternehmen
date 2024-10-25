@@ -7,7 +7,7 @@ import folium
 import numpy as np
 
 # Set the page layout to wide mode for better display
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", title = "Performance Analyse- Ein Fallbeispiel von Uber Reports.")
 
 # Import data from CSV file containing relevant columns
 df = pd.read_csv("data.csv") 
@@ -53,7 +53,7 @@ if isinstance(date, tuple) and len(date) == 2:
     end_date = date[1].strftime('%d.%b')
     try:
         # Display header with formatted driver name and date range
-        st.header(f"Performance von :green[_{Drivers_Name}_] und Umsatz von :red[_{date[0].strftime('%d')}_] bis :red[_{date[1].strftime('%d %b')}_]")
+        st.header(f"Performance von :green[_{Drivers_Name}_]  von :red[_{date[0].strftime('%d')}_] bis :red[_{date[1].strftime('%d %b')}_]")
     except Exception as e:
         # Show error if formatting fails
         st.error(f"An error occurred: {str(e)}")
