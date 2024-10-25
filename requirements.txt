@@ -1,7 +1,6 @@
 streamlit
 datetime
 pandas
-streamlit_folium
 ast
 folium
 numpy 
