@@ -20,7 +20,7 @@ Ein Teil der App ist öffentlich zugänglich gemacht worden, allerdings werden h
 Dieses Projekt war im Vergleich zu anderen technisch weniger komplex, entpuppte sich jedoch als eines der nützlichsten Tools für viele Taxi- und Mietwagenunternehmer. Es steigert nicht nur die betriebliche Effizienz, sondern trägt auch signifikant zur Erkennung von betrügerischem Verhalten bei. Die App unterstützt Unternehmer dabei, ihre Geschäftsprozesse zu optimieren und vor finanziellen Verlusten geschützt zu sein
 
 
-# Hinweis: Meine fundierten Kenntnisse in MySQL-Logik waren hilfreich beim Aufbau von Entity-Relationship-Diagrammen sowie bei der Zusammenführung mehrerer Tabellen
+##### Hinweis: Meine Kenntnisse in MySQL-Logik waren hilfreich beim Aufbau von Entity-Relationship-Diagrammen sowie bei der Zusammenführung mehrerer Tabellen
 
 
 
