@@ -23,8 +23,8 @@ def redo_type(x):
             # If conversion fails, return the original value
             return x
     else:
-        # If x is NaN, return np.NAN
-        return np.NAN
+        # If x is NaN, return np.nan
+        return np.nan
 
 # Apply the redo_type function to columns 'Abhol_geo' and 'Ziel_geo' to restore original types
 df['Abhol_geo'] = df['Abhol_geo'].apply(redo_type)
