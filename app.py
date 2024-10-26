@@ -72,7 +72,7 @@ def add_marker_and_line(row):
         folium.Marker(
             location=row['Abhol_geo'],
             icon=folium.Icon(color="green", icon="arrow-up"),
-            popup=folium.Popup(f"Fahrt Kosten: {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
+            popup=folium.Popup(f"Fahrterlös : {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
             tooltip="Klick für Mehr Info! "
         ).add_to(frankfurt_Map)
 
@@ -82,7 +82,7 @@ def add_marker_and_line(row):
         folium.Marker(
             location=row['Ziel_geo'],
             icon=folium.Icon(color='red', icon='arrow-down'),
-            popup=folium.Popup(f"Fahrt Kosten: {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
+            popup=folium.Popup(f"Fahrterlös : {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
             tooltip="Klick für Mehr Info! "
         ).add_to(frankfurt_Map)
 
