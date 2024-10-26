@@ -73,7 +73,7 @@ def add_marker_and_line(row):
             location=row['Abhol_geo'],
             icon=folium.Icon(color="green", icon="arrow-up"),
             popup=folium.Popup(f"Fahrterlös : {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
-            tooltip="Klick für Mehr Info! "
+            tooltip="Abholstation"
         ).add_to(frankfurt_Map)
 
     # Check for valid destination location (latitude, longitude tuple)
@@ -83,7 +83,7 @@ def add_marker_and_line(row):
             location=row['Ziel_geo'],
             icon=folium.Icon(color='red', icon='arrow-down'),
             popup=folium.Popup(f"Fahrterlös : {row['Fahrt_Umsatz']} €\n Fahrtdistanz: {row['Fahrtdistanz']} KM", max_width=170),
-            tooltip="Klick für Mehr Info! "
+            tooltip="Zielstation "
         ).add_to(frankfurt_Map)
 
         # Draw a line between pickup and destination locations if both are valid
