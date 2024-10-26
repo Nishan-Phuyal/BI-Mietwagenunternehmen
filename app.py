@@ -7,7 +7,7 @@ import folium
 import numpy as np
 
 # Set the page layout to wide mode for better display
-st.set_page_config(layout="wide", title = "Performance Analyse- Ein Fallbeispiel von Uber Reports.")
+st.set_page_config(layout="wide", page_title = "Performance Analyse- Ein Fallbeispiel von Uber Reports.")
 
 # Import data from CSV file containing relevant columns
 df = pd.read_csv("data.csv") 
