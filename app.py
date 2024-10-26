@@ -144,3 +144,4 @@ with col2:
     
     # Display the map in Streamlit with specified dimensions
     st_folium(frankfurt_Map, width=1300, height=500)
+    st.marktdown("Die Karte zeigt die Fahrtrouten der Fahrtaufträge am ausgewählten Datum. Die grüne Markierung steht für die Abholadresse, die rote für das Ziel.")
