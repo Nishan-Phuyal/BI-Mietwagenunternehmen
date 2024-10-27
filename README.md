@@ -1,4 +1,4 @@
-# Digitale Analyse-App zur Fahrer- und Unternehmensperformance für Mietwagen- und Taxiunternehmen
+# Digitale Analyse-App zur Fahrer- und Unternehmensperformance für Mietwagen- und Taxiunternehmen: *[Interactive-App](https://mietwagen-firma-performance-fraud-detection-dashboard.streamlit.app)*
 
 In der zunehmend digitalisierten Welt gewinnen automatisierte Prozesse an Bedeutung – insbesondere im Bereich der Personenbeförderung. Plattformen wie Uber, Bolt und FreeNow sind Vorreiter in der digitalen Abwicklung von Fahrten und stellen Unternehmern regelmäßig Berichte zur Fahrerperformance und Umsätzen zur Verfügung. Diese Berichte sind jedoch oft unstrukturiert und schwer zu interpretieren, was es für viele Unternehmer schwierig macht, einen klaren Überblick über ihr Geschäft zu erhalten.
 
