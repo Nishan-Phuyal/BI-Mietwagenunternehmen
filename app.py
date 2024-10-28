@@ -9,7 +9,7 @@ import text
 
 # Set the page layout to wide mode for better display
 st.set_page_config(layout="wide", page_title = "Performance Analyse- Ein Fallbeispiel von Uber Reports.")
-
+st.header("Mietwagenunternehmen Performance Analytics")
 # Project Description
 with st.expander("### :blue[Projektbeschreibung:]\n"):
     st.markdown(text.text)
